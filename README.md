@@ -1,3 +1,6 @@
-# My Awesome Book
+#### _Catatan tengtang HTML and CSS._
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#### _Singkat Padat Jelas Menurut aku anye :D_
+
+
+
