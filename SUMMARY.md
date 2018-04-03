@@ -6,5 +6,6 @@
   * [Merubah Warnah Texs](merubah-warnah-texs.md)
   * [Class / ID](cara-menggunakan-class.md)
   * [Font](font.md)
+  * [Gambar](gambar.md)
 * [HTML](chapter1.md)
 
